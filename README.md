@@ -1,0 +1,1 @@
+Analyzing traffic stops and congestion in American cities, focusing on age groups, times, coordinates, and vehicle types. I use R for data refinement and Excel for visualizing these patterns in detailed graphs.
